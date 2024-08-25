@@ -3,3 +3,5 @@ It delves into the various types of batteries, such as lead-acid, lithium-ion, a
 
 Key sections of the presentation focus on the working principles behind battery operation, exploring how energy is stored and released in different types of batteries. 
 Looking ahead, the presentation explores the future trends in battery technology, including advancements in energy density, charging speeds, and sustainability. Emerging technologies such as solid-state batteries and novel materials are discussed, offering insights into the potential breakthroughs that could revolutionize energy storage in the coming years.
+
+It also cover about battery management system, battery thermal management system, different international standard and regulation related to battery safety, storage and transportation.
